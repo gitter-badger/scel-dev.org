@@ -4,7 +4,7 @@ title: Home
 ---
 
 Welcome to the Smart Campus Energy Lab (SCEL) lab developer website. 
-If you are new to the lab, check out the page about getting started.
+If you are new to the lab, check out the page about [getting started](http://scel-dev.com/getting-started/)
 
 
 
