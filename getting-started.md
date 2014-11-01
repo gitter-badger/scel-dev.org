@@ -8,6 +8,12 @@ mostly student run lab, and as such, support each other in our own endeavors.
 This lab is both software and hardware based, much much of the work will 
 depend more on software. 
 
+## Renewable Island Energy Sustainability
+
+SCEL is very closely coupled with the Renewable Island Energy Sustainability group.
+
+<iframe width="854" height="510" src="//www.youtube.com/embed/qznfxDIDl_8" frameborder="0" allowfullscreen></iframe>
+
 ## Development Tools
 
 To get started with SCEL, you will need to get familiar with the following tools:
